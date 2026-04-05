@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.gemini.googleusercontent.com/images?image_id=image_4.png" width="1000" alt="VYOMARC Technologies Organization Header">
+  <img src="vyomarc.jpeg" width="1000" alt="VYOMARC Technologies Organization Header">
 </p>
 
 ## Engineering the Future of Scalable Digital Solutions. 💠
