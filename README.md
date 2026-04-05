@@ -70,7 +70,7 @@ For all inquiries regarding bespoke software architecture or collaboration on **
 
 <p align="left">
   <a href="https://vyomarc.com" target="_blank"><img src="https://img.shields.io/badge/Web-000000?style=for-the-badge&logo=vyomarc&logoColor=white" alt="Website"></a>
-  <a href="[https://linkedin.com/company/vyomarc](https://www.linkedin.com/company/113305087/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/company/113305087/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/vyomarc" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="mailto:contact@vyomarc.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
